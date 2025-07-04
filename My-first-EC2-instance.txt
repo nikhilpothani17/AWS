@@ -1,5 +1,0 @@
-Created and launched an Amazon EC2 instance
-Logged into the EC2 instance using SSH
-Installed an Apache server on the instance
-Installed an NGINIX server on the instance
-Created a webpage and published it.
